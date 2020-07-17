@@ -8,6 +8,7 @@ My Regular Expression Exercises
 * https://learnbyexample.gitbooks.io/vim-reference/content/Regular_Expressions.html
 
 # Quick Guide
+Reference: https://www.py4e.com/lectures3/Pythonlearn-11-Regex-Handout.txt
 ```
 ^        Matches the beginning of a line
 $        Matches the end of the line
