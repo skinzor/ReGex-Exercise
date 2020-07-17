@@ -1,5 +1,11 @@
 # ReGexD
-My Regular Expression Exercises 
+My Regular Expression Exercises
+
+# Useful Links
+* https://regex101.com/
+* https://www.rexegg.com/regex-quickstart.html
+* https://cheatography.com/davechild/cheat-sheets/regular-expressions/
+* https://learnbyexample.gitbooks.io/vim-reference/content/Regular_Expressions.html
 
 # Quick Guide
 ```
