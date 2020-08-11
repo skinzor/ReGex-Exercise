@@ -6,6 +6,10 @@ My Regular Expression Exercises
 * https://www.rexegg.com/regex-quickstart.html
 * https://cheatography.com/davechild/cheat-sheets/regular-expressions/
 * https://learnbyexample.gitbooks.io/vim-reference/content/Regular_Expressions.html
+* Regex Guide: https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4
+* Online Tester/Debugger:  https://regex101.com/ | http://regexr.com/ | https://www.debuggex.com/
+* Interactive Guide: https://regexone.com/
+
 
 # Quick Guide
 Reference: https://www.py4e.com/lectures3/Pythonlearn-11-Regex-Handout.txt
